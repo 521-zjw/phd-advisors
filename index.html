@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#f3efe6" />
+    <meta
+      name="description"
+      content="10 个国家的农业、食品、植物、作物方向导师，附申请入口、语言与 GPA 要求和截止时间。公开页面，无需登录。"
+    />
+    <title>全球农业/食品/植物/作物 PhD 导师与申请数据库</title>
+    <link rel="canonical" href="https://521-zjw.github.io/phd-advisors/" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231b5e3b'/%3E%3Cpath d='M16 25c0-8 4.2-13.6 10-15.6-1.2 8-5.2 13.6-10 15.6z' fill='%23e7f3ec'/%3E%3Cpath d='M16 25c0-8-4.2-13.6-10-15.6 1.2 8 5.2 13.6 10 15.6z' fill='%23f4f0e6'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">跳到内容</a>
+    <header class="site-header">
+      <div class="wrap">
+        <p class="eyebrow">公开目录 · 无需登录</p>
+        <h1>
+          <span class="title-kicker">全球农业/食品/植物/作物</span>
+          <span>PhD 导师与申请数据库</span>
+        </h1>
+        <p class="summary">
+          10 个国家的农业、食品、植物、作物方向导师，附申请入口、语言与 GPA 要求和截止时间；标<span class="nowrap">「高匹配」</span>的与小麦贮藏蛋白、面筋结构、烘焙品质、水氮与籽粒品质方向最贴近。
+        </p>
+        <nav class="jump" aria-label="页内">
+          <a href="#overview">概况</a>
+          <a href="#database">导师数据库</a>
+          <a href="#log">更新日志</a>
+          <a href="#help">使用说明</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="wrap">
+      <noscript>
+        <p class="callout">
+          浏览器没有运行 JavaScript，搜索和筛选不可用。数据文件仍可以直接打开：
+          <a href="data/records.json">records.json</a>、
+          <a href="data/programs.json">programs.json</a>、
+          <a href="data/log.json">log.json</a>。
+        </p>
+      </noscript>
+      <p id="load-error" class="error" hidden></p>
+
+      <section id="overview" aria-labelledby="overview-title">
+        <h2 id="overview-title">概况</h2>
+        <p id="as-of" role="status">正在载入数据…</p>
+        <div class="overview-grid">
+          <div id="bars"></div>
+          <dl class="stats" id="stats"></dl>
+        </div>
+        <p class="callout">
+          截止日期按页面打开当天自动判断，过期显示"已截止"；旧记录永不删除。语言、GPA、截止只录官方页面写明的内容，没写的标"未明确"或"未公布"。
+        </p>
+      </section>
+
+      <section id="database" aria-labelledby="database-title">
+        <h2 id="database-title">导师数据库</h2>
+        <div class="view-bar">
+          <div class="seg" id="view-switch" role="radiogroup" aria-label="视图">
+            <label class="seg-opt">
+              <input type="radio" name="view" value="all" checked />
+              <span>导师总表 <span class="count" id="count-all"></span></span>
+            </label>
+            <label class="seg-opt">
+              <input type="radio" name="view" value="recent" />
+              <span>最近新增</span>
+            </label>
+            <label class="seg-opt">
+              <input type="radio" name="view" value="programs" />
+              <span>申请项目 <span class="count" id="count-programs"></span></span>
+            </label>
+          </div>
+        </div>
+        <form id="filters" role="search">
+          <div class="field search-field">
+            <label for="q">搜索</label>
+            <input
+              id="q"
+              name="q"
+              type="search"
+              placeholder="姓名、研究方向、学校、院系，如 gluten、小麦、Wageningen"
+              autocomplete="off"
+              spellcheck="false"
+              enterkeyhint="search"
+            />
+          </div>
+          <div class="field">
+            <label for="country">国家</label>
+            <select id="country" name="country">
+              <option value="全部">全部</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="cat">类别</label>
+            <select id="cat" name="cat">
+              <option value="全部">全部</option>
+              <option value="农业">A 农业</option>
+              <option value="食品">F 食品</option>
+              <option value="植物">P 植物</option>
+              <option value="作物">C 作物</option>
+            </select>
+          </div>
+          <div class="checks">
+            <label class="check">
+              <input id="fit-only" name="fit-only" type="checkbox" />
+              只看高匹配
+            </label>
+            <label class="check">
+              <input id="open-only" name="open-only" type="checkbox" />
+              只看有在招/开放申请
+            </label>
+            <button type="button" class="ghost" id="reset">清空筛选</button>
+          </div>
+          <div class="switch-row">
+            <div class="switch">
+              <span class="switch-label" id="sort-label">排序</span>
+              <div class="seg" role="radiogroup" aria-labelledby="sort-label">
+                <label class="seg-opt">
+                  <input type="radio" name="sort" value="default" checked />
+                  <span>默认排序</span>
+                </label>
+                <label class="seg-opt">
+                  <input type="radio" name="sort" value="deadline" />
+                  <span>按截止日期</span>
+                </label>
+                <label class="seg-opt">
+                  <input type="radio" name="sort" value="added" />
+                  <span>按收录时间</span>
+                </label>
+              </div>
+            </div>
+            <div class="switch">
+              <span class="switch-label" id="cols-label">列</span>
+              <div class="seg" role="radiogroup" aria-labelledby="cols-label">
+                <label class="seg-opt">
+                  <input type="radio" name="cols" value="overview" checked />
+                  <span>概览</span>
+                </label>
+                <label class="seg-opt">
+                  <input type="radio" name="cols" value="apply" />
+                  <span>申请信息</span>
+                </label>
+                <label class="seg-opt">
+                  <input type="radio" name="cols" value="source" />
+                  <span>主页与来源</span>
+                </label>
+              </div>
+            </div>
+          </div>
+        </form>
+        <p id="result-meta" aria-live="polite"></p>
+        <div id="panel"></div>
+      </section>
+
+      <section id="log" aria-labelledby="log-title">
+        <h2 id="log-title">更新日志</h2>
+        <div id="log-list"></div>
+      </section>
+
+      <details class="help" id="help">
+        <summary><h2>使用说明</h2></summary>
+        <ul>
+          <li>高匹配：研究涉及小麦贮藏蛋白、面筋结构、烘焙品质、水氮与籽粒品质、谷物淀粉或蛋白质组学。</li>
+          <li>在招状态："项目开放申请"指所属招生项目的截止日还没到；"岗位制"指博士按岗位招，需看招聘页或直接联系导师。</li>
+          <li>欧洲多数博士是带薪岗位，没有统一截止日，建议先发套磁邮件。</li>
+          <li>英国 DTP 项目国际生名额有限，NRPDTP、SWBio、Nottingham DLA 的截止都在 11 至 12 月。</li>
+        </ul>
+      </details>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          数据文件：<a href="data/programs.json">项目</a>、<a href="data/records.json">导师</a>、<a href="data/log.json">更新日志</a>。截止日期过了会显示为已截止，记录不会从数据库删除。
+        </p>
+        <p>
+          线上地址 <a href="https://521-zjw.github.io/phd-advisors/">https://521-zjw.github.io/phd-advisors/</a>
+          · 仓库 <a href="https://github.com/521-zjw/phd-advisors">521-zjw/phd-advisors</a>
+        </p>
+      </div>
+    </footer>
+    <button type="button" id="back-top" hidden>回到顶部</button>
+    <script type="module" src="assets/app.js"></script>
+  </body>
+</html>

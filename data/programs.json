@@ -1,0 +1,330 @@
+{
+  "UMD": {
+    "n": "UMD Plant Science (PLSC) PhD",
+    "u": "https://www.psla.umd.edu/graduate/plant-science-plsc",
+    "l": "TOEFL iBT 96 / IELTS 7.0 / PTE 68（研究生院线）",
+    "g": "3.0/4.0（B 平均）",
+    "d": "2027 秋季入学：2027-01-14",
+    "dd": "2027-01-14",
+    "o": "cycle",
+    "s": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+  },
+  "KSU_GFS": {
+    "n": "K-State Grain and Food Science 研究生项目",
+    "u": "https://www.grains.k-state.edu/academics/graduate-programs/Application%20Information.html",
+    "l": "TOEFL 79 / IELTS 6.5 / PTE 58",
+    "g": "3.0（研究生院）；本科直博需 3.5",
+    "d": "国际生秋季入学 2 月 1 日；夏季入学 12 月 1 日",
+    "dd": "2027-02-01",
+    "o": "cycle",
+    "s": "https://www.grains.k-state.edu/academics/graduate-programs/Application%20Information.html"
+  },
+  "KSU_GRAD": {
+    "n": "K-State Graduate School（Agronomy / Plant Pathology）",
+    "u": "https://www.k-state.edu/grad/",
+    "l": "未明确（以院系页面为准）",
+    "g": "3.0（研究生院手册）",
+    "d": "未公布",
+    "o": "none",
+    "s": "https://www.k-state.edu/grad/student-success/graduate-handbook/chapter1.html"
+  },
+  "TAMU": {
+    "n": "Texas A&M Soil and Crop Sciences PhD",
+    "u": "https://soilcrop.tamu.edu/graduate-admissions/",
+    "l": "按校招生办规定（系页未列数值）",
+    "g": "3.0",
+    "d": "秋季 6 月 1 日；春季 11 月 1 日；夏季 3 月 15 日",
+    "dd": "2027-06-01",
+    "o": "cycle",
+    "s": "https://soilcrop.tamu.edu/graduate-admissions/"
+  },
+  "OKS": {
+    "n": "Oklahoma State Graduate College",
+    "u": "https://gradcollege.okstate.edu/",
+    "l": "未明确",
+    "g": "未明确",
+    "d": "未公布",
+    "o": "none",
+    "s": "https://gradcollege.okstate.edu/"
+  },
+  "UMN": {
+    "n": "UMN Applied Plant Sciences PhD",
+    "u": "https://appliedplantsciences.umn.edu/students/admissions",
+    "l": "TOEFL 79（新版 4.5）/ IELTS 6.5 / Duolingo 115 / PTE 59",
+    "g": "3.0",
+    "d": "12 月 1 日（次年秋季入学）",
+    "dd": "2026-12-01",
+    "o": "cycle",
+    "s": "https://appliedplantsciences.umn.edu/students/admissions"
+  },
+  "UNL": {
+    "n": "UNL Agronomy and Horticulture PhD",
+    "u": "https://agronomy.unl.edu/academic-programs/graduate-programs/admission-graduate-degrees-agronomy/",
+    "l": "TOEFL iBT 79 / IELTS 6.5 / Duolingo 120",
+    "g": "3.0（须导师接收）",
+    "d": "秋季：无导师 5 月 15 日，有导师 7 月 15 日",
+    "dd": "2027-05-15",
+    "o": "cycle",
+    "s": "https://agronomy.unl.edu/academic-programs/graduate-programs/admission-graduate-degrees-agronomy/"
+  },
+  "OSU": {
+    "n": "Oregon State Crop and Soil Science PhD",
+    "u": "https://cropandsoil.oregonstate.edu/cropandsoil/graduate/how-apply-graduate-program",
+    "l": "TOEFL iBT 80 / IELTS 6.5",
+    "g": "3.0（研究生院）",
+    "d": "滚动，须先联系到导师",
+    "o": "rolling",
+    "s": "https://cropandsoil.oregonstate.edu/cropandsoil/graduate/how-apply-graduate-program"
+  },
+  "NRP_JIC": {
+    "n": "John Innes Centre：NRPDTP / Rotation PhD",
+    "u": "https://jic.ac.uk/training-careers/postgraduate-opportunities/current-postgraduate-research-opportunities/",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "NRPDTP 2026-11-30；JIC Rotation PhD 2026-11-12",
+    "dd": "2026-11-30",
+    "o": "cycle",
+    "s": "https://jic.ac.uk/training-careers/postgraduate-opportunities/current-postgraduate-research-opportunities/"
+  },
+  "NRP_QI": {
+    "n": "Quadram Institute：NRPDTP",
+    "u": "https://biodtp.norwichresearchpark.ac.uk/how-to-apply/key-dates/",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "2026-11-30",
+    "dd": "2026-11-30",
+    "o": "cycle",
+    "s": "https://biodtp.norwichresearchpark.ac.uk/how-to-apply/key-dates/"
+  },
+  "SWBIO": {
+    "n": "Rothamsted：SWBio DTP 等 studentships",
+    "u": "https://www.rothamsted.ac.uk/studentships",
+    "l": "未明确",
+    "g": "未明确",
+    "d": "SWBio 2026-12-02 12:00（英国时间）",
+    "dd": "2026-12-02",
+    "o": "cycle",
+    "s": "https://www.rothamsted.ac.uk/studentships"
+  },
+  "NOTT": {
+    "n": "Nottingham BBSRC DLA",
+    "u": "https://www.nottingham.ac.uk/pgstudy/courses/doctoral-training-programmes/biotech-bio-sci-bbsrc.aspx",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "2026-12-08 12:00（英国时间）",
+    "dd": "2026-12-08",
+    "o": "cycle",
+    "s": "https://www.nottingham.ac.uk/pgstudy/courses/doctoral-training-programmes/biotech-bio-sci-bbsrc.aspx"
+  },
+  "WUR": {
+    "n": "Wageningen University & Research PhD 岗位",
+    "u": "https://www.wur.nl/en/jobs/phd-jobs",
+    "l": "通常 IELTS 6.5（以岗位广告为准）",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.wur.nl/en/jobs/phd-jobs"
+  },
+  "UU": {
+    "n": "Utrecht University 职位",
+    "u": "https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs",
+    "l": "以岗位广告为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs"
+  },
+  "IPK": {
+    "n": "IPK Gatersleben 职位",
+    "u": "https://www.ipk-gatersleben.de/en/career/job-offers",
+    "l": "以岗位广告为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.ipk-gatersleben.de/en/career/job-offers"
+  },
+  "HOH": {
+    "n": "University of Hohenheim 博士",
+    "u": "https://www.uni-hohenheim.de/en/promotion-allgemein",
+    "l": "以岗位或学院要求为准",
+    "g": "未明确（须先获导师接收）",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.uni-hohenheim.de/en/promotion-allgemein"
+  },
+  "TUM": {
+    "n": "TUM Graduate School 博士",
+    "u": "https://www.gs.tum.de/en/gs/doctorate-at-tum/",
+    "l": "以岗位或学院要求为准",
+    "g": "未明确（须先找到导师）",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.gs.tum.de/en/gs/doctorate-at-tum/"
+  },
+  "ETH": {
+    "n": "ETH Zurich 博士",
+    "u": "https://ethz.ch/en/doctorate.html",
+    "l": "以课题组要求为准",
+    "g": "未明确",
+    "d": "直接向 PI 申请，随时",
+    "o": "jobs",
+    "s": "https://ethz.ch/en/doctorate.html"
+  },
+  "UZH": {
+    "n": "Life Science Zurich Graduate School（含 Plant Science 项目）",
+    "u": "https://www.lifescience-graduateschool.uzh.ch/en.html",
+    "l": "以项目要求为准",
+    "g": "未明确",
+    "d": "统一申请 2027-05-01、2027-11-01；直接找 PI 随时",
+    "dd": "2027-05-01",
+    "o": "cycle",
+    "s": "https://www.lifescience-graduateschool.uzh.ch/en.html"
+  },
+  "UNIBAS": {
+    "n": "University of Basel 博士入学",
+    "u": "https://www.unibas.ch/en/Studies/Application-Admission.html",
+    "l": "以课题组要求为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.unibas.ch/en/Studies/Application-Admission.html"
+  },
+  "UNIL": {
+    "n": "University of Lausanne FBM",
+    "u": "https://www.unil.ch/fbm/en/home.html",
+    "l": "以课题组要求为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.unil.ch/fbm/en/home.html"
+  },
+  "AU_TECH": {
+    "n": "Aarhus University Graduate School of Technical Sciences",
+    "u": "https://phd.tech.au.dk/",
+    "l": "未明确",
+    "g": "未明确",
+    "d": "按招生公告，未公布具体日期",
+    "o": "none",
+    "s": "https://phd.tech.au.dk/"
+  },
+  "KU": {
+    "n": "University of Copenhagen PhD 职位",
+    "u": "https://employment.ku.dk/phd/",
+    "l": "以岗位广告为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://employment.ku.dk/phd/"
+  },
+  "SLU": {
+    "n": "SLU 职位（博士为雇员岗位）",
+    "u": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/",
+    "l": "以岗位广告为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/"
+  },
+  "LUND": {
+    "n": "Lund University 职位（Varbi）",
+    "u": "https://lu.varbi.com/en/",
+    "l": "以岗位广告为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://lu.varbi.com/en/"
+  },
+  "CHALMERS": {
+    "n": "Chalmers 职位",
+    "u": "https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/",
+    "l": "以岗位广告为准",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/"
+  },
+  "INRAE": {
+    "n": "INRAE 博士课题",
+    "u": "https://jobs.inrae.fr/actualites/preparez-votre-these-inrae-decouvrez-nos-offres",
+    "l": "以课题广告为准",
+    "g": "未明确",
+    "d": "随岗位，课题多在春季发布",
+    "o": "jobs",
+    "s": "https://jobs.inrae.fr/actualites/preparez-votre-these-inrae-decouvrez-nos-offres"
+  },
+  "MASSEY": {
+    "n": "Massey University PhD",
+    "u": "https://www.massey.ac.nz/study/about-postgraduate-study/phds-and-professional-doctorates/how-to-apply-for-a-doctoral-degree/",
+    "l": "IELTS 6.5（单项不低于 6.0）/ TOEFL iBT 90（写作 20）/ PTE 58",
+    "g": "未明确",
+    "d": "未公布",
+    "o": "none",
+    "s": "https://www.massey.ac.nz/study/about-postgraduate-study/phds-and-professional-doctorates/how-to-apply-for-a-doctoral-degree/"
+  },
+  "OTAGO": {
+    "n": "University of Otago 研究生研究",
+    "u": "https://www.otago.ac.nz/graduate-research",
+    "l": "IELTS 6.5（单项不低于 6.0），TOEFL 等见语言页",
+    "g": "未明确",
+    "d": "未公布",
+    "o": "none",
+    "s": "https://www.otago.ac.nz/study/entry-requirements/language-requirements"
+  },
+  "ANU": {
+    "n": "ANU 研究型学位",
+    "u": "https://study.anu.edu.au/apply/postgraduate-research",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "2027 入学主奖学金轮 2026-08-31",
+    "dd": "2026-08-31",
+    "o": "cycle",
+    "s": "https://study.anu.edu.au/apply/postgraduate-research"
+  },
+  "ADL": {
+    "n": "Adelaide University PhD",
+    "u": "https://adelaide.edu.au/study/degrees/doctor-of-philosophy/",
+    "l": "IELTS 6.5（各项不低于 6.0）",
+    "g": "WAM 不低于 65 或 7 分制 GPA 不低于 5.0",
+    "d": "2027 奖学金 Round 2 约 2 月中开放，截止未公布",
+    "o": "none",
+    "s": "https://adelaide.edu.au/research/research-degrees/research-scholarships/"
+  },
+  "SYD": {
+    "n": "University of Sydney PhD / RTP 国际奖学金",
+    "u": "https://www.sydney.edu.au/scholarships/australian-government-research-training-program/rtp-international.html",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "2027 RP3–4 轮：2026-12-18",
+    "dd": "2026-12-18",
+    "o": "cycle",
+    "s": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html"
+  },
+  "UWA": {
+    "n": "UWA 研究型学位",
+    "u": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements",
+    "l": "IELTS 6.5（各项要求见页面）",
+    "g": "未明确",
+    "d": "2027 国际 HDR 奖学金轮 2026-09-15",
+    "dd": "2026-09-15",
+    "o": "cycle",
+    "s": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements"
+  },
+  "ECU": {
+    "n": "Edith Cowan University PhD",
+    "u": "https://www.ecu.edu.au/degrees/courses/doctor-of-philosophy",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "2027 HDR 奖学金分轮次，具体日期未核实",
+    "o": "none",
+    "s": "https://www.ecu.edu.au/degrees/courses/doctor-of-philosophy"
+  },
+  "MURDOCH": {
+    "n": "Murdoch University（SABC）",
+    "u": "https://www.murdoch.edu.au/research/sabc",
+    "l": "未明确",
+    "g": "未明确",
+    "d": "未公布",
+    "o": "none",
+    "s": "https://www.murdoch.edu.au/research/sabc"
+  }
+}
