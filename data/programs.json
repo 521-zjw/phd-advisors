@@ -200,12 +200,12 @@
   },
   "AU_TECH": {
     "n": "Aarhus University Graduate School of Technical Sciences",
-    "u": "https://phd.tech.au.dk/",
+    "u": "https://phd.tech.au.dk/for-applicants/apply-here",
     "l": "未明确",
     "g": "未明确",
-    "d": "按招生公告，未公布具体日期",
-    "o": "none",
-    "s": "https://phd.tech.au.dk/"
+    "d": "岗位制，按 GSTS 公告；2026-11-11 列表含 Food Science 岗（截止 11-26、12-01）和 Agroecology 岗（2027-01-10）",
+    "o": "jobs",
+    "s": "https://phd.tech.au.dk/for-applicants/apply-here"
   },
   "KU": {
     "n": "University of Copenhagen PhD 职位",
@@ -275,7 +275,7 @@
     "u": "https://study.anu.edu.au/apply/postgraduate-research",
     "l": "IELTS 6.5（单项不低于 6.0）",
     "g": "未明确",
-    "d": "2027 入学主奖学金轮 2026-08-31",
+    "d": "2027 入学主奖学金轮 2026-08-31（已截止）；个别课题另设全额奖学金，见课题页",
     "dd": "2026-08-31",
     "o": "cycle",
     "s": "https://study.anu.edu.au/apply/postgraduate-research"
@@ -304,7 +304,7 @@
     "u": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements",
     "l": "IELTS 6.5（各项要求见页面）",
     "g": "未明确",
-    "d": "2027 国际 HDR 奖学金轮 2026-09-15",
+    "d": "2027 国际 HDR 奖学金轮 2026-09-15（已截止）",
     "dd": "2026-09-15",
     "o": "cycle",
     "s": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements"
@@ -326,5 +326,15 @@
     "d": "未公布",
     "o": "none",
     "s": "https://www.murdoch.edu.au/research/sabc"
+  },
+  "YBDTP": {
+    "n": "Yorkshire Bioscience DTP（YBDTP）2027 入学",
+    "u": "https://www.yorkshirebiosciencedtp.ac.uk/apply/",
+    "l": "按承办大学要求（Huddersfield 国际生英语要求见学校页面）",
+    "g": "英国 2:1（upper second-class）或同等",
+    "d": "2027-01-06 17:00（英国时间）；每人最多申请 2 个项目；国际生全额名额很少",
+    "dd": "2027-01-06",
+    "o": "cycle",
+    "s": "https://www.findaphd.com/phds/project/establishing-structure-function-relationships-and-economic-and-environmental-merits-of-arabinoxylan-materials-from-integrated-biorefineries/?p201735="
   }
 }
