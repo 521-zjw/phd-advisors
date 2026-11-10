@@ -170,3 +170,5 @@ node scripts/validate.mjs
 **Settings → Pages → Build and deployment → Deploy from a branch → Branch: `main`，Folder: `/ (root)` → Save。**
 
 保存之后，页面会出现在 [https://521-zjw.github.io/phd-advisors/](https://521-zjw.github.io/phd-advisors/)。只把文件推到 `main`，不会自己打开这个开关。
+
+<!-- pages trigger -->
