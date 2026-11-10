@@ -3,5 +3,10 @@
     "date": "2026-11-10",
     "title": "首版上线",
     "detail": "收录 10 国 157 位导师、35 个申请项目；全部主页与申请入口当日经 HTTP 检查，404 已剔除；退休或荣休人员未收录。"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "每日更新：新增 3 位导师，补充 3 条在招信息",
+    "detail": "新增 Chris Morgan（JIC，小麦减数分裂交叉调控，MORGAN_J27DTP，截止 11-30）、Grant M. Campbell（Huddersfield，阿拉伯木聚糖与面包品质，YBDTP，截止 2027-01-06，高匹配）、Wolfram Buss（ANU，小麦/油菜生物硝化抑制，全额奖学金，截止 11-19）；Simon Griffiths 补充 GRIFFITHS_J27CASE（面包小麦蛋白利用效率与烘焙品质，截止 11-30）；UMD 实验室页仍列 Tiwari、Rawat 各 1 个 PhD 空位。新增 YBDTP 项目；ANU、UWA 主奖学金轮标注已截止；Aarhus GSTS 改为岗位制并附当日岗位。当日复查全部主页与申请入口均可打开，仅 KU 招聘页（employment.ku.dk/phd）连接失败，保留待复核。"
   }
 ]

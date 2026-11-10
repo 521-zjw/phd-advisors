@@ -12,7 +12,9 @@
     "p": "UMD",
     "f": true,
     "a": "2026-11-10",
-    "v": "2026-11-10"
+    "v": "2026-11-11",
+    "s": "https://umdwheatgenomics.weebly.com/opportunities.html",
+    "ad": "https://umdwheatgenomics.weebly.com/opportunities.html"
   },
   {
     "id": "us-rawat",
@@ -27,7 +29,9 @@
     "p": "UMD",
     "f": false,
     "a": "2026-11-10",
-    "v": "2026-11-10"
+    "v": "2026-11-11",
+    "s": "https://umdwheatgenomics.weebly.com/opportunities.html",
+    "ad": "https://umdwheatgenomics.weebly.com/opportunities.html"
   },
   {
     "id": "us-akhunov",
@@ -327,7 +331,10 @@
     "p": "NRP_JIC",
     "f": true,
     "a": "2026-11-10",
-    "v": "2026-11-10"
+    "v": "2026-11-11",
+    "s": "https://biodtp.norwichresearchpark.ac.uk/projects/protein-use-efficiency-in-wheat-for-reduced-agricultural-greenhouse-gas-emissions-griffiths_j27case/",
+    "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/protein-use-efficiency-in-wheat-for-reduced-agricultural-greenhouse-gas-emissions-griffiths_j27case/",
+    "add": "2026-11-30"
   },
   {
     "id": "uk-uauy",
@@ -2353,5 +2360,59 @@
     "f": false,
     "a": "2026-11-10",
     "v": "2026-11-10"
+  },
+  {
+    "id": "uk-morgan",
+    "n": "Chris Morgan",
+    "t": "Group Leader; Royal Society University Research Fellow",
+    "r": "减数分裂重组的分子机制（拟南芥与小麦），调控小麦染色体交叉分布、挖掘 Watkins 地方品种减数分裂基因变异",
+    "i": "John Innes Centre",
+    "d": "Building Robustness in Crops (BRiC)",
+    "c": "英国",
+    "k": "PC",
+    "h": "https://www.jic.ac.uk/people/chris-morgan/",
+    "p": "NRP_JIC",
+    "f": false,
+    "a": "2026-11-11",
+    "v": "2026-11-11",
+    "s": "https://biodtp.norwichresearchpark.ac.uk/projects/manipulating-meiotic-crossover-control-in-wheat-morgan_j27dtp/",
+    "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/manipulating-meiotic-crossover-control-in-wheat-morgan_j27dtp/",
+    "add": "2026-11-30"
+  },
+  {
+    "id": "uk-campbell",
+    "n": "Grant M. Campbell",
+    "t": "Professor of Chemical Engineering",
+    "r": "谷物加工与烘焙工程；阿拉伯木聚糖（AX）结构-功能关系及其对面团与面包品质的影响",
+    "i": "University of Huddersfield",
+    "d": "Department of Physical and Life Sciences, School of Applied Sciences",
+    "c": "英国",
+    "k": "F",
+    "h": "https://pure.hud.ac.uk/en/persons/grant-campbell/",
+    "p": "YBDTP",
+    "f": true,
+    "a": "2026-11-11",
+    "v": "2026-11-11",
+    "s": "https://www.findaphd.com/phds/project/establishing-structure-function-relationships-and-economic-and-environmental-merits-of-arabinoxylan-materials-from-integrated-biorefineries/?p201735=",
+    "ad": "https://www.findaphd.com/phds/project/establishing-structure-function-relationships-and-economic-and-environmental-merits-of-arabinoxylan-materials-from-integrated-biorefineries/?p201735=",
+    "add": "2027-01-06"
+  },
+  {
+    "id": "au-buss",
+    "n": "Wolfram Buss",
+    "t": "Senior Research Fellow",
+    "r": "谷物作物生物硝化抑制（BNI）与土壤氮素动态，小麦与油菜根系分泌（GRDC 资助，与 CSIRO 合作）",
+    "i": "Australian National University",
+    "d": "Division of Plant Sciences；Fenner School of Environment & Society",
+    "c": "澳大利亚",
+    "k": "AC",
+    "h": "https://researchportalplus.anu.edu.au/en/persons/wolfram-buss/",
+    "p": "ANU",
+    "f": false,
+    "a": "2026-11-11",
+    "v": "2026-11-11",
+    "s": "https://fennerschool.anu.edu.au/research/research-projects/fully-funded-phd-scholarship-investigating-and-optimizing-potential",
+    "ad": "https://fennerschool.anu.edu.au/research/research-projects/fully-funded-phd-scholarship-investigating-and-optimizing-potential",
+    "add": "2026-11-19"
   }
 ]
