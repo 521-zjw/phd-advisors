@@ -8,5 +8,10 @@
     "date": "2026-11-11",
     "title": "每日更新：新增 3 位导师，补充 3 条在招信息",
     "detail": "新增 Chris Morgan（JIC，小麦减数分裂交叉调控，MORGAN_J27DTP，截止 11-30）、Grant M. Campbell（Huddersfield，阿拉伯木聚糖与面包品质，YBDTP，截止 2027-01-06，高匹配）、Wolfram Buss（ANU，小麦/油菜生物硝化抑制，全额奖学金，截止 11-19）；Simon Griffiths 补充 GRIFFITHS_J27CASE（面包小麦蛋白利用效率与烘焙品质，截止 11-30）；UMD 实验室页仍列 Tiwari、Rawat 各 1 个 PhD 空位。新增 YBDTP 项目；ANU、UWA 主奖学金轮标注已截止；Aarhus GSTS 改为岗位制并附当日岗位。当日复查全部主页与申请入口均可打开，仅 KU 招聘页（employment.ku.dk/phd）连接失败，保留待复核。"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "每日更新：补录 11-12 至 11-14 空窗，新增 8 位导师与在招岗位",
+    "detail": "补查自 2026-11-11 成功更新之后至 11-15 的官方在招信息。新增 8 位导师（均非高匹配）：Aarhus GSTS 的 Hanne Christine Bertram（NMR Foodomics，截止 11-26）、Hanne Lakkenborg Kristensen（蔬菜氮素流失，截止 12-01）、Sheng Wang（干旱热浪农业脆弱性，截止 2027-01-10）；SLU 的 Ramesh Raju Vetukuri（小麦/马铃薯 RNA 作物保护，截止 11-24，11-09 发布）、Georg Carlsson（可持续种植体系生物质，截止 11-27）、Karl-Johan Bergstrand（沼渣园艺基质，截止 11-27）；Wageningen 的 Ciarán Forde（儿童进食行为，截止 11-30）；UEA 的 Yaroslav Khimyak（NRPDTP 淀粉消化，KHIMYAK_U27DTP，截止 11-30）。新增 NRP_UEA 项目。复核既有在招：UMD Tiwari、Rawat 实验室页仍各列 1 个 PhD 空位（curl 遇 Cloudflare 403，经页面抓取确认仍开放）；Griffiths、Morgan 截止仍为 11-30；Campbell YBDTP 截止 2027-01-06；Buss ANU 全额奖学金截止仍为 11-19。JIC Rotation PhD 已于 2026-11-12 截止，NRPDTP 仍开放至 11-30。KU 招聘页 employment.ku.dk/phd 本次可打开（HTTP 200），但列表为动态加载；已核对的植物营养（截止 10-23）、可持续种植体系（11-01）、软物质食品（11-08）岗位均已过期，未新增记录。SWBio 农业主题仍开放至 12-02，未见新的小麦品质/面筋/烘焙课题。IPK 当日无在招博士岗。11-12/13/14 三次更新失败，本次一并补录。"
   }
 ]

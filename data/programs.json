@@ -81,7 +81,7 @@
     "u": "https://jic.ac.uk/training-careers/postgraduate-opportunities/current-postgraduate-research-opportunities/",
     "l": "IELTS 6.5（单项不低于 6.0）",
     "g": "未明确",
-    "d": "NRPDTP 2026-11-30；JIC Rotation PhD 2026-11-12",
+    "d": "NRPDTP 2026-11-30；JIC Rotation PhD 2026-11-12（已截止）",
     "dd": "2026-11-30",
     "o": "cycle",
     "s": "https://jic.ac.uk/training-careers/postgraduate-opportunities/current-postgraduate-research-opportunities/"
@@ -203,7 +203,7 @@
     "u": "https://phd.tech.au.dk/for-applicants/apply-here",
     "l": "未明确",
     "g": "未明确",
-    "d": "岗位制，按 GSTS 公告；2026-11-11 列表含 Food Science 岗（截止 11-26、12-01）和 Agroecology 岗（2027-01-10）",
+    "d": "岗位制，按 GSTS 公告；2026-11-15 复核仍开放：Food Science「NMR Foodomics」截止 2026-11-26、「蔬菜氮素流失」截止 2026-12-01；Agroecology「干旱热浪农业脆弱性」截止 2027-01-10",
     "o": "jobs",
     "s": "https://phd.tech.au.dk/for-applicants/apply-here"
   },
@@ -336,5 +336,15 @@
     "dd": "2027-01-06",
     "o": "cycle",
     "s": "https://www.findaphd.com/phds/project/establishing-structure-function-relationships-and-economic-and-environmental-merits-of-arabinoxylan-materials-from-integrated-biorefineries/?p201735="
+  },
+  "NRP_UEA": {
+    "n": "University of East Anglia：NRPDTP",
+    "u": "https://biodtp.norwichresearchpark.ac.uk/how-to-apply/key-dates/",
+    "l": "IELTS 6.5（单项不低于 6.0）",
+    "g": "未明确",
+    "d": "2026-11-30",
+    "dd": "2026-11-30",
+    "o": "cycle",
+    "s": "https://biodtp.norwichresearchpark.ac.uk/how-to-apply/key-dates/"
   }
 }
