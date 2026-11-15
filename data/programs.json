@@ -346,5 +346,15 @@
     "dd": "2026-11-30",
     "o": "cycle",
     "s": "https://biodtp.norwichresearchpark.ac.uk/how-to-apply/key-dates/"
+  },
+  "EXETER_EPSRC": {
+    "n": "University of Exeter：EPSRC Doctoral Landscape Award（Physics and Astronomy）",
+    "u": "https://www.exeter.ac.uk/study/funding/award/?id=6020",
+    "l": "未明确（以学校研究生英语要求为准）",
+    "g": "一等或二等一级荣誉学士（或海外同等；二等二级需硕士或相关经验）",
+    "d": "2026-12-08（中午）",
+    "dd": "2026-12-08",
+    "o": "cycle",
+    "s": "https://www.exeter.ac.uk/study/funding/award/?id=6020"
   }
 }
