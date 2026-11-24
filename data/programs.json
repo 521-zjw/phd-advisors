@@ -203,7 +203,7 @@
     "u": "https://phd.tech.au.dk/for-applicants/apply-here",
     "l": "未明确",
     "g": "未明确",
-    "d": "岗位制，按 GSTS 公告；2026-11-24 复核仍开放：Food Science「NMR Foodomics」截止 2026-11-26、「蔬菜氮素流失」截止 2026-12-01；Agroecology「干旱热浪农业脆弱性」截止 2027-01-10",
+    "d": "岗位制，按 GSTS 公告；2026-11-25 复核仍开放：Food Science「NMR Foodomics」截止 2026-11-26、「蔬菜氮素流失」截止 2026-12-01；Agroecology「干旱热浪农业脆弱性」截止 2027-01-10",
     "o": "jobs",
     "s": "https://phd.tech.au.dk/for-applicants/apply-here"
   },
@@ -366,5 +366,14 @@
     "dd": "2026-12-31",
     "o": "cycle",
     "s": "https://terra-med.euroregio.eu/how-to-apply"
+  },
+  "TUHH": {
+    "n": "Hamburg University of Technology (TUHH) 博士岗位",
+    "u": "https://www.tuhh.de/tuhh/tu-hamburg/arbeiten-an-der-tu-hamburg/stellenausschreibungen",
+    "l": "英语 B2/C1（广告要求）；建议具备日常德语",
+    "g": "未明确（广告要求硕士成绩明显高于平均水平）",
+    "d": "岗位制；2026-11-25 复核见热分离过程研究所食品级气凝胶博士岗，截止 2026-12-09",
+    "o": "jobs",
+    "s": "https://stellenportal.tuhh.de/q2po6"
   }
 }
