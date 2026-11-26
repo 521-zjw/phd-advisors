@@ -12,7 +12,7 @@
     "p": "UMD",
     "f": true,
     "a": "2026-11-10",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://umdwheatgenomics.weebly.com/opportunities.html",
     "ad": "https://umdwheatgenomics.weebly.com/opportunities.html"
   },
@@ -29,7 +29,7 @@
     "p": "UMD",
     "f": false,
     "a": "2026-11-10",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://umdwheatgenomics.weebly.com/opportunities.html",
     "ad": "https://umdwheatgenomics.weebly.com/opportunities.html"
   },
@@ -331,7 +331,7 @@
     "p": "NRP_JIC",
     "f": true,
     "a": "2026-11-10",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://biodtp.norwichresearchpark.ac.uk/projects/protein-use-efficiency-in-wheat-for-reduced-agricultural-greenhouse-gas-emissions-griffiths_j27case/",
     "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/protein-use-efficiency-in-wheat-for-reduced-agricultural-greenhouse-gas-emissions-griffiths_j27case/",
     "add": "2026-11-30"
@@ -1069,7 +1069,7 @@
     "p": "UNIBAS",
     "f": false,
     "a": "2026-11-10",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://jobs.unibas.ch/offene-stellen/phd-position-in-plant-microbiome-interactions/63893f26-d865-4192-9801-426e8dab04ce",
     "ad": "https://jobs.unibas.ch/offene-stellen/phd-position-in-plant-microbiome-interactions/63893f26-d865-4192-9801-426e8dab04ce"
   },
@@ -2376,7 +2376,7 @@
     "p": "NRP_JIC",
     "f": false,
     "a": "2026-11-11",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://biodtp.norwichresearchpark.ac.uk/projects/manipulating-meiotic-crossover-control-in-wheat-morgan_j27dtp/",
     "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/manipulating-meiotic-crossover-control-in-wheat-morgan_j27dtp/",
     "add": "2026-11-30"
@@ -2394,7 +2394,7 @@
     "p": "YBDTP",
     "f": true,
     "a": "2026-11-11",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.findaphd.com/phds/project/establishing-structure-function-relationships-and-economic-and-environmental-merits-of-arabinoxylan-materials-from-integrated-biorefineries/?p201735=",
     "ad": "https://www.findaphd.com/phds/project/establishing-structure-function-relationships-and-economic-and-environmental-merits-of-arabinoxylan-materials-from-integrated-biorefineries/?p201735=",
     "add": "2027-01-06"
@@ -2412,10 +2412,11 @@
     "p": "ANU",
     "f": false,
     "a": "2026-11-11",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://fennerschool.anu.edu.au/research/research-projects/fully-funded-phd-scholarship-investigating-and-optimizing-potential",
     "ad": "https://fennerschool.anu.edu.au/research/research-projects/fully-funded-phd-scholarship-investigating-and-optimizing-potential",
-    "add": "2026-11-19"
+    "add": "2026-11-19",
+    "x": "已截止"
   },
   {
     "id": "dk-bertram",
@@ -2430,10 +2431,11 @@
     "p": "AU_TECH",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advances-in-nmr-techniques-for-next-generation-foodomics",
     "ad": "https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advances-in-nmr-techniques-for-next-generation-foodomics",
-    "add": "2026-11-26"
+    "add": "2026-11-26",
+    "x": "已截止"
   },
   {
     "id": "dk-kristensen",
@@ -2448,7 +2450,7 @@
     "p": "AU_TECH",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/agroecological-approaches-to-reduce-nitrogen-losses-in-vegetable-production",
     "ad": "https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/agroecological-approaches-to-reduce-nitrogen-losses-in-vegetable-production",
     "add": "2026-12-01"
@@ -2466,7 +2468,7 @@
     "p": "AU_TECH",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/new-paradigm-to-disentangle-hydrothermal-stresses-and-assess-regional-agricultural-vulnerability-to-drought-heatwave-events",
     "ad": "https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/new-paradigm-to-disentangle-hydrothermal-stresses-and-assess-regional-agricultural-vulnerability-to-drought-heatwave-events",
     "add": "2027-01-10"
@@ -2484,10 +2486,11 @@
     "p": "SLU",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand/",
     "ad": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand/",
-    "add": "2026-11-24"
+    "add": "2026-11-24",
+    "x": "已截止"
   },
   {
     "id": "se-carlsson-georg",
@@ -2502,7 +2505,7 @@
     "p": "SLU",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-biomassa-resurser-fran-hallbara-odlingssystem/",
     "ad": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-biomassa-resurser-fran-hallbara-odlingssystem/",
     "add": "2026-11-27"
@@ -2520,7 +2523,7 @@
     "p": "SLU",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-tradgardsvetenskap-/",
     "ad": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-tradgardsvetenskap-/",
     "add": "2026-11-27"
@@ -2538,7 +2541,7 @@
     "p": "WUR",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.wur.nl/en/vacancy/phd-candidate-child-eating-behaviour",
     "ad": "https://www.wur.nl/en/vacancy/phd-candidate-child-eating-behaviour",
     "add": "2026-11-30"
@@ -2556,7 +2559,7 @@
     "p": "NRP_UEA",
     "f": false,
     "a": "2026-11-15",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://biodtp.norwichresearchpark.ac.uk/projects/cracking-the-carbohydrate-code-how-carbohydrate-binding-modules-control-starch-digestion-khimyak_u27dtp/",
     "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/cracking-the-carbohydrate-code-how-carbohydrate-binding-modules-control-starch-digestion-khimyak_u27dtp/",
     "add": "2026-11-30"
@@ -2574,7 +2577,7 @@
     "p": "NRP_JIC",
     "f": false,
     "a": "2026-11-16",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://biodtp.norwichresearchpark.ac.uk/projects/investigating-the-cry-for-help-effect-in-wheat-malone_j27dtp/",
     "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/investigating-the-cry-for-help-effect-in-wheat-malone_j27dtp/",
     "add": "2026-11-30"
@@ -2592,7 +2595,7 @@
     "p": "NRP_JIC",
     "f": false,
     "a": "2026-11-16",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://biodtp.norwichresearchpark.ac.uk/projects/deciphering-critical-regulators-in-wheat-rust-immunity-saunders_j27dtp/",
     "ad": "https://biodtp.norwichresearchpark.ac.uk/projects/deciphering-critical-regulators-in-wheat-rust-immunity-saunders_j27dtp/",
     "add": "2026-11-30"
@@ -2610,7 +2613,7 @@
     "p": "EXETER_EPSRC",
     "f": false,
     "a": "2026-11-16",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.exeter.ac.uk/v8media/recruitmentsites/documents/studentshipprojects/Structured_and_patterned_food_products_for_improved_flavour_sensation_and_nutrition_NASH_PAA_2027_grn_edited.pdf",
     "ad": "https://www.exeter.ac.uk/study/funding/award/?id=6020",
     "add": "2026-12-08"
@@ -2628,7 +2631,7 @@
     "p": "UNIL",
     "f": false,
     "a": "2026-11-17",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=23021&career_ns=job_listing",
     "ad": "https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=23021&career_ns=job_listing"
   },
@@ -2645,7 +2648,7 @@
     "p": "SLU",
     "f": false,
     "a": "2026-11-18",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-bioekonomiska-system-i-jordbruket/",
     "ad": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-bioekonomiska-system-i-jordbruket/",
     "add": "2026-11-27"
@@ -2663,7 +2666,7 @@
     "p": "YBDTP",
     "f": false,
     "a": "2026-11-18",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.yorkshirebiosciencedtp.ac.uk/apply/",
     "ad": "https://www.findaphd.com/phds/project/plant-protein-dietary-fibre-composites-how-amaranth-cell-wall-architecture-controls-protein-digestion-and-nutritional-functionality/?p201504=",
     "add": "2027-01-06"
@@ -2681,9 +2684,117 @@
     "p": "SLU",
     "f": false,
     "a": "2026-11-21",
-    "v": "2026-11-22",
+    "v": "2026-11-27",
     "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-lantbruksvetenskap/",
     "ad": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-lantbruksvetenskap/",
+    "add": "2026-12-11"
+  },
+  {
+    "id": "fr-ballini",
+    "n": "Elsa Ballini",
+    "t": "Dr.",
+    "r": "小麦品种混合或麦-豆混作在生物胁迫下的光学表型、高光谱/近红外与多组学整合（TERRA-MED OPTIBIO；联合培养单位为西班牙 URV，共同导师 Ricard Boqué）",
+    "i": "Université de Montpellier",
+    "d": "UMR PHIM（ED GAIA）",
+    "c": "法国",
+    "k": "PC",
+    "h": "https://umr-phim.cirad.fr/en/recherche/comprendre-le-phytobiome-phytobiom/equipe-momie",
+    "p": "TERRA_MED",
+    "f": false,
+    "a": "2026-11-23",
+    "v": "2026-11-27",
+    "s": "https://terra-med.euroregio.eu/how-to-apply",
+    "ad": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UM1_BALLINI-PHIM_TERRA-MED-OPTIBIO-PHIM-ITAP.pdf",
+    "add": "2026-12-31"
+  },
+  {
+    "id": "dk-mutwil",
+    "n": "Marek Mutwil",
+    "t": "Associate Professor",
+    "r": "小麦、大麦、油菜与马铃薯热旱胁迫的单细胞基因调控网络",
+    "i": "University of Copenhagen",
+    "d": "Department of Plant and Environmental Sciences (PLEN)",
+    "c": "丹麦",
+    "k": "PC",
+    "h": "https://researchprofiles.ku.dk/en/persons/marek-mutwil/",
+    "p": "KU",
+    "f": false,
+    "a": "2026-11-23",
+    "v": "2026-11-27",
+    "s": "https://workindenmark.jobnet.dk/find-job/f1a9412e-8643-42e1-a572-9ff21d459465",
+    "ad": "https://workindenmark.jobnet.dk/find-job/f1a9412e-8643-42e1-a572-9ff21d459465",
+    "add": "2027-01-31"
+  },
+  {
+    "id": "fr-forget",
+    "n": "Florence Richard-Forget",
+    "t": "Directrice de recherche",
+    "r": "植物基奶酪替代品中的真菌毒素风险评估（ANR SafeAlterCheese；Penicillium roqueforti 等；与 ANSES、UMRF0545 合作）",
+    "i": "INRAE",
+    "d": "UR 1264 Mycologie et Sécurité des Aliments (MycSA)，Villenave d'Ornon（Université de Bordeaux 生命与健康博士学院注册）",
+    "c": "法国",
+    "k": "F",
+    "h": "https://www.inrae.fr/actualites/mycotoxines-fil-dariane-florence-forget",
+    "p": "INRAE",
+    "f": false,
+    "a": "2026-11-24",
+    "v": "2026-11-27",
+    "s": "https://eng-mycsa.bordeaux-aquitaine.hub.inrae.fr/news/phd-safealtercheese",
+    "ad": "https://jobs.inrae.fr/ot-31051",
+    "add": "2026-12-17"
+  },
+  {
+    "id": "de-smirnova",
+    "n": "Irina Smirnova",
+    "t": "Professor; Head of Institute; Vice President Research",
+    "r": "食品级气凝胶：由非凝胶生物聚合物（含蛋白与可溶性纤维）经冷冻结构化与超临界 CO₂ 干燥制备，并评估与食品基质的相容性（MSCA FAroGels DC2）",
+    "i": "Hamburg University of Technology (TUHH)",
+    "d": "Institute of Thermal Separation Processes",
+    "c": "德国",
+    "k": "F",
+    "h": "https://www.tuhh.de/v8/people/professors-and-group-leaders/prof-smirnova",
+    "p": "TUHH",
+    "f": false,
+    "a": "2026-11-25",
+    "v": "2026-11-27",
+    "s": "https://stellenportal.tuhh.de/q2po6",
+    "ad": "https://stellenportal.tuhh.de/q2po6",
+    "add": "2026-12-09"
+  },
+  {
+    "id": "se-robert",
+    "n": "Stéphanie Robert",
+    "t": "Professor",
+    "r": "拟南芥顶端钩形成过程中生长素时空分布及其对力-化学信号的响应；植物形态建成与细胞形态调控",
+    "i": "Swedish University of Agricultural Sciences (SLU)",
+    "d": "Department of Forest Genetics and Plant Physiology（Umeå Plant Science Centre）",
+    "c": "瑞典",
+    "k": "P",
+    "h": "https://www.upsc.se/researchers/6171-robert-stephanie-regulation-of-plant-cell-shape-acquisition.html",
+    "p": "SLU",
+    "f": false,
+    "a": "2026-11-26",
+    "v": "2026-11-27",
+    "s": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-biologi2/",
+    "ad": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-biologi2/",
+    "add": "2027-01-04"
+  },
+  {
+    "id": "nl-mogollon",
+    "n": "José M. Mogollón",
+    "t": "Associate Professor",
+    "r": "用 FABIO 全球多区域投入产出模型评估荷兰转向植物蛋白生产与消费对全球贸易及温室气体、土地利用、养分、水与氨排放等环境足迹的影响（NWO REAP2SOW）",
+    "i": "Leiden University",
+    "d": "Institute of Environmental Sciences (CML)",
+    "c": "荷兰",
+    "k": "AF",
+    "h": "https://www.universiteitleiden.nl/en/staffmembers/jose-mogollon",
+    "p": "LEIDEN",
+    "f": false,
+    "a": "2026-11-27",
+    "v": "2026-11-27",
+    "s": "https://careers.universiteitleiden.nl/job/Leiden-PhD-in-Environmental-impacts-of-transitioning-toward-plant-rich-protein-production-&-consumption/17070-en_US/",
+    "ad": "https://careers.universiteitleiden.nl/job/Leiden-PhD-in-Environmental-impacts-of-transitioning-toward-plant-rich-protein-production-&-consumption/17070-en_US/",
     "add": "2026-12-11"
   }
 ]
