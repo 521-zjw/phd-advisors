@@ -203,7 +203,7 @@
     "u": "https://phd.tech.au.dk/for-applicants/apply-here",
     "l": "未明确",
     "g": "未明确",
-    "d": "岗位制，按 GSTS 公告；2026-11-26 复核仍开放：Food Science「NMR Foodomics」截止 2026-11-26、「蔬菜氮素流失」截止 2026-12-01；Agroecology「干旱热浪农业脆弱性」截止 2027-01-10",
+    "d": "岗位制，按 GSTS 公告；2026-11-27 复核：Food Science「NMR Foodomics」已于 2026-11-26 截止、「蔬菜氮素流失」截止 2026-12-01；Agroecology「干旱热浪农业脆弱性」截止 2027-01-10",
     "o": "jobs",
     "s": "https://phd.tech.au.dk/for-applicants/apply-here"
   },
@@ -375,5 +375,14 @@
     "d": "岗位制；2026-11-25 复核见热分离过程研究所食品级气凝胶博士岗，截止 2026-12-09",
     "o": "jobs",
     "s": "https://stellenportal.tuhh.de/q2po6"
+  },
+  "LEIDEN": {
+    "n": "Leiden University PhD 岗位（含 Institute of Environmental Sciences CML）",
+    "u": "https://www.universiteitleiden.nl/en/vacancies",
+    "l": "以岗位广告为准（本岗要求优秀英语，具体分数未明确）",
+    "g": "未明确",
+    "d": "随岗位滚动",
+    "o": "jobs",
+    "s": "https://www.universiteitleiden.nl/en/vacancies"
   }
 }
